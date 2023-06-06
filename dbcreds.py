@@ -3,5 +3,5 @@ conn_params = {
     'password' : 'password',
     'host' : 'localhost',
     'port' : 3306,
-    'database' : 'First_Api'
+    'database' : 'python_flask_db'
 }
